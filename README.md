@@ -10,17 +10,11 @@ Further information: https://docs.typo3.org/typo3cms/extensions/shredder/
 
 ### Dependencies
 
-* TYPO3 6.2 - 8.7, 9 should work too
+- TYPO3 6.2 - 8.7, 9 should work too
 
 ### Installation
 
-#### Installation using Composer
-
-In your Composer based TYPO3 project root, just do `composer require colorcube/shredder`. 
-
-#### Installation as extension from TYPO3 Extension Repository (TER)
-
-Download and install the extension with the extension manager module.
+Install the extension by using composer and `composer req colorcube/shredder` or by downloading it in the extension manager or on https://extensions.typo3.org/extension/shredder/.
 
 ## Remarks
 
@@ -30,3 +24,4 @@ The magic happens on every page reload!
 
 - Send pull requests to the repository. <https://github.com/colorcube/shredder>
 - Use the issue tracker for feedback and discussions. <https://github.com/colorcube/shredder/issues>
+

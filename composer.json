@@ -29,7 +29,6 @@
     }
   },
   "replace": {
-    "shredder": "self.version",
     "typo3-ter/shredder": "self.version"
   },
   "extra": {
