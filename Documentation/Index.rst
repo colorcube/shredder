@@ -9,7 +9,7 @@ Shredder
 
 .. only:: html
 
-	:Extension key:
+	:Classification:
 		shredder
 
 	:Version:
