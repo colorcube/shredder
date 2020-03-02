@@ -4,10 +4,13 @@
 
 ---
 conf.py:
-  copyright: 2003-2018
+  copyright: 2003-2020
   project: Shredder
-  version: 1.0.0
-  release: 1.0.0
+  version: 1.0
+  release: 1.0.1
+  html_theme_options:
+    github_repository: colorcube/shredder
+    github_branch: master
   latex_documents:
   - - Index
     - shredder.tex
