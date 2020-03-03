@@ -6,7 +6,7 @@ Improve your site design by magic
 
 Just install and you should see the magic on your website.
 
-Further information: https://docs.typo3.org/typo3cms/extensions/shredder/
+Further information: https://docs.typo3.org/p/colorcube/shredder/master/en-us/
 
 ### Dependencies
 
